@@ -1,6 +1,2 @@
 # ADMP
-kjdsflksjdf
-sadflkasdjfsa
-df
-sdfsalkdfj
-asdfsadf
+A simulation based project
